@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="cat0">cat0</string>
+    <string name="cat1">cat1</string>
+    <string name="cat2">cat2</string>
+    <string name="art_title">Заголовок 1</string>
+    <string name="art_title1">Заголовок 2</string>
+    <string name="art_title2">Заголовок 3</string>
+    <string name="art_artist">Автор картины 1</string>
+    <string name="art_artist1">Автор картины 2</string>
+    <string name="art_artist2">Автор картины 3</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
